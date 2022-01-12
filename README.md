@@ -39,13 +39,7 @@ Including a list of our favorite tools, frameworks, and go-to tech (when we get 
 <code><img height="30" src="https://cncf-branding.netlify.app/img/projects/argo/stacked/color/argo-stacked-color.png"></code>
 
 
-
-
-
-
-
-
 **Data Science Tools**
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
 
