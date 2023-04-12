@@ -3,7 +3,7 @@
 
 Hi, I'm Seth Lawler, <a href="https://www.linkedin.com/in/seth-lawler-b75212141/">
 <img align="left" alt="Seth Lawler" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> a scientist and engineer at [Dewberry](https://www.dewberry.com/). I currently serve as Program Manager of Digital Solutions for Resiliency Initiatives where I spend my days collaborating with an amazing, fast-paced, multi-disciplinary team of very smart people working to advance the state of the art of computational tools, technology, and resources available for resilience studies and applications. Our teams focus areas include providing technical leadership and expertise in computational science, data/software/geospatial engineering, automation processes, cloud computing, and web development for resiliency tools and studies. 
+</a> a scientist and engineer at [Dewberry](https://www.dewberry.com/). I currently serve as Program Manager of Digital Solutions for Resiliency Initiatives where I work with with an amazing, fast-paced, multi-disciplinary team of very smart people working to advance the state of the art of computational tools, technology, and resources available for resilience studies and applications. Our teams focus areas include providing technical leadership and expertise in computational science, data/software/geospatial engineering, automation processes, cloud computing, and web development for resiliency tools and studies. 
 
 Including a list of our favorite tools, frameworks, and go-to tech (when we get to choose 😎). If you are interested in learning more about what we do, please reach out! 
 
